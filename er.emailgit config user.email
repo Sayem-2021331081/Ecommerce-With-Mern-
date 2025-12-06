@@ -1,0 +1,8 @@
+[33mcommit 61d3637431f2075980c62745de5ceee5987da481[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[36mgpg: Signature made Sat, Dec  6, 2025  6:36:32 PM BST[m
+[36mgpg:                using RSA key B9F7B77F34820A6CBA63D4F6B85067C1214D4EDD[m
+[36mgpg: Good signature from "Shahriar Galib Sowmik ("Trust this Author") <shahriarsowmik474@gmail.com>" [ultimate][m
+Author: shahriargalib037 <shahriarsowmik@gmail.com>
+Date:   Sat Dec 6 18:36:32 2025 +0600
+
+    add invoice layout and product
